@@ -27,7 +27,7 @@ El proyecto **Reto BackEnd - Banco Pichincha** son dos servicios Rest, el cual s
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/AngeloQP/gestion-libreria-backend.git
+   git clone https://github.com/JavierEGC/api-pichincha.git
 
 2. **Instalar dependencias:**
 
