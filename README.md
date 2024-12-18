@@ -45,6 +45,11 @@ El proyecto **Reto BackEnd - Banco Pichincha** son dos servicios Rest, el cual s
 
 
 ---
+## 📁 Estructura del Proyecto
+
+![Estructura](src/main/resources/imagenes/estructura-api-experiencia.png)
+
+![Estructura](src/main/resources/imagenes/estructura-api-soporte.png)
 
 ## 📸 Swagger
 
